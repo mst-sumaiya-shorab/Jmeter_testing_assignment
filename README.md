@@ -3,5 +3,5 @@
 ## Booking Test:
 ### Load test: 
 ![image](https://github.com/user-attachments/assets/bf48e44b-bf89-4d90-8623-87c66fa4ddeb)
-![image](https://github.com/user-attachments/assets/bf48e44b-bf89-4d90-8623-87c66fa4ddeb)
-![image](https://github.com/user-attachments/assets/bf48e44b-bf89-4d90-8623-87c66fa4ddeb)
+HTML Report of Load test:
+
